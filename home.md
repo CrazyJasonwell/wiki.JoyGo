@@ -2,12 +2,11 @@
 title: wiki.JoyGo
 description: 一个分享快乐的资源平台
 published: true
-date: 2025-04-17T05:24:45.974Z
+date: 2025-04-20T14:00:18.097Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-15T10:02:27.801Z
 ---
-
 
 # ♔资源分享平台教程♔
 
@@ -164,5 +163,6 @@ myGuest/Mayi1968
 1. 使用教程以及相关网站替换为新申请的域名
 1. 影视库进行了优化，减少了播放卡顿
 1. 新部署了Jellyfin，以便可以使用免费的App客户端Jellyfin播放,这个方案效果待观察！
+1. 修复了qb视频文件下载时复制到媒体库的错误
 
 
