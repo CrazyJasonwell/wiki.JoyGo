@@ -2,7 +2,7 @@
 title: wiki.JoyGo
 description: 一个分享快乐的资源平台
 published: true
-date: 2025-04-20T14:00:18.097Z
+date: 2025-04-24T08:01:11.952Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-15T10:02:27.801Z
@@ -64,11 +64,12 @@ myGuest/Mayi1968
 
 ### 5.2 安卓andriod
 - 下载App
-<a href='https://mayimanpa.lanzouu.com/iiIkq2r4qgyf'><image src='/img/apk-download.png' width='200' /></a>
+<a href='https://www.123912.com/s/KWtKVv-o2GWv?提取码:S7Wk'><image src='/img/apk-download.png' width='200' /></a>
 
- 密码:7788 文件名：xlist-xxx.apk
 
-<image src='/img/aioplato.jpg' width='200' />
+ 密码:S7Wk 文件名：xlist-xxx.apk
+
+<image src='/img/aioplato1.jpg' width='200' />
 
 - 进入App填写登录信息
 > 网址url:http://himan.picp.net:5300
