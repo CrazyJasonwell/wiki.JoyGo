@@ -2,7 +2,7 @@
 title: wiki.JoyGo
 description: 一个分享快乐的资源平台
 published: true
-date: 2025-05-20T09:01:14.573Z
+date: 2025-05-20T11:06:21.466Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-15T10:02:27.801Z
@@ -39,7 +39,7 @@ dateCreated: 2025-04-15T10:02:27.801Z
 - 网页版不需要额外客户端
 - 所有操作都在浏览器完成，支持预览和媒体播放，但由于浏览器解码偏弱，部分编码视频不能播放
 【登录平台】
-> [http://himan.cpolar.top](http://himan.cpolar.top)
+> [http://himan.picp.net:5300](http://himan.picp.net:5300)
 {.is-info}
 
 【初始帐号】
