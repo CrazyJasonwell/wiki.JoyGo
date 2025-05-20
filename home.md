@@ -2,7 +2,7 @@
 title: wiki.JoyGo
 description: 一个分享快乐的资源平台
 published: true
-date: 2025-04-24T08:01:11.952Z
+date: 2025-05-20T08:54:07.220Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-15T10:02:27.801Z
@@ -43,7 +43,7 @@ dateCreated: 2025-04-15T10:02:27.801Z
 {.is-info}
 
 【初始帐号】
-myGuest/Mayi1968
+myGuest/【私聊获得】
 操作如下图：
 
 
@@ -60,7 +60,7 @@ myGuest/Mayi1968
 {.is-info}
 
 帐号/用户：myGuest
-密码：Mayi1968
+密码：【私聊获得】
 
 ### 5.2 安卓andriod
 - 下载App
@@ -76,7 +76,7 @@ myGuest/Mayi1968
 {.is-info}
 
 帐号/用户：myGuest
-密码：Mayi1968
+密码：【私聊获得】
 
 ## 6.使用进阶
 上面方法可以通过浏览和预览方式，来看书、听歌、看片、学习，但是大部分资料因为各种原因，存在很多问题：文件名混乱，没有简介，不知道具体内容，所以必然在操控方面体验感欠佳，而且视频解码有限，因此如何优雅的食用这个资源平台呢？下面就按资源分类进行介绍。
@@ -101,7 +101,7 @@ myGuest/Mayi1968
 所谓电子书就是书在信息设备上的延展，喜欢看书的朋友，应该不会陌生，但是如何在移动端也就是手机、Pad端或者是TV设备上愉快的阅读呢？这也是我要重点介绍的。
 - **网页端**
 
-> 登录网站：[http://book.cpolar.top](http://book.cpolar.top)
+> 登录网站：[https://book.joyagain.me](https://book.joyagain.me)
 {.is-info}
 
 1. 网站不需要密码，不开放注册，可以在线阅读，如果以后读者比较杂乱，会考虑添加注册或者入口密码！
@@ -143,11 +143,11 @@ myGuest/Mayi1968
 ### 6.4漫画
 大多数人应该都喜欢看漫画，老同学们应该还记得曾经爱不释手的小人书，多么美好的记忆！现在的年轻也喜欢漫画，不过喜欢的风格不一样，总之，漫画频道会陆续提供各种风格的漫画书，一定有你爱看的漫画书。
 - **网页版**
-> 登录网站：[http://book.againgo.top](http://book.againgo.top)
+> 登录网站：[https://comic.joyagain.me](https://comic.joyagain.me)
 {.is-info}
 
 登录用户：cs_jeff@qq.com
-密码：Mayi1968
+密码：【私聊获取】
 
 首页
 <img src="/img/komga.jpg"  width="400" height="220"> 
@@ -159,6 +159,10 @@ myGuest/Mayi1968
 ## 7.问题解答
 
 ## 8.更新日志
+### 2025.5.20
+1. 更新了部分失效链接
+1. 本文档不再提供明文密码，需要跟我私聊获取
+
 ### 2025.4.10
 1. 修复了[学习教育园地]版块（更多资源）链接
 1. 使用教程以及相关网站替换为新申请的域名
