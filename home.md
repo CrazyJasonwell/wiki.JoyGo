@@ -2,7 +2,7 @@
 title: wiki.JoyGo
 description: 一个分享快乐的资源平台
 published: true
-date: 2025-05-30T02:58:45.028Z
+date: 2025-05-30T02:59:19.526Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-15T10:02:27.801Z
@@ -113,6 +113,8 @@ myGuest/【私聊获得】
 进入后，可以看到界面：
 
 - 照片导入
+
+- 重新整理
 
 
 
