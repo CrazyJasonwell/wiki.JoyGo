@@ -2,7 +2,7 @@
 title: wiki.JoyGo
 description: 一个分享快乐的资源平台
 published: true
-date: 2025-06-10T14:09:01.374Z
+date: 2025-06-14T09:08:30.488Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-15T10:02:27.801Z
@@ -187,7 +187,7 @@ myGuest/【见第8小节】
 {.is-info}
 
 登录用户：cs_jeff@qq.com
-密码：【私聊获取】
+密码：【见第8小节】
 
 首页
 <img src="/img/komga.jpg"  width="400" height="220"> 
