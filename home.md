@@ -1,8 +1,8 @@
 ---
-title: Wiki.JoyGo
+title: wiki.JoyGo
 description: 一个资源分享平台
 published: true
-date: 2025-09-21T12:35:26.585Z
+date: 2025-09-21T13:42:44.215Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-21T12:29:22.059Z
