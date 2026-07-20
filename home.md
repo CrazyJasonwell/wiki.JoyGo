@@ -2,7 +2,7 @@
 title: wiki.JoyGo
 description: 一个资源分享平台
 published: true
-date: 2026-07-20T09:55:02.454Z
+date: 2026-07-20T09:56:08.409Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-21T12:29:22.059Z
@@ -56,7 +56,7 @@ myGuest/【见第8小节】
 <a href='https://apps.apple.com/cn/app/id6448833200'><image src='/img/apple-store-badge.png' width='200' /></a>
 
 - 进入App填写登录信息
-> 网址url:http://himan.picp.net:5300
+> 网址url:http://media.himan.cloud:6244
 {.is-info}
 
 帐号/用户：myGuest
